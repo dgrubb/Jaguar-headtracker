@@ -4,6 +4,12 @@ This project is envisioned to provide motion-tracking controller input for the A
 
 Project website: [VR motion](http://www.jaguar64.eu/forum/viewtopic.php?f=49&p=40)
 
+The initial test case shall be the ability to play the game Missile Command 3D.
+
+![Missile Command 3D](./images/missile-command-3d-cartrige.jpg)
+
+[Gameplay video](https://www.youtube.com/watch?v=dOVprPw6GDs)
+
 ## Hardware
 
 ## Firmware
